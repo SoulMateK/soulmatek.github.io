@@ -3,7 +3,7 @@
 
 ### XinKai SUN
 #### Address
-[Southeast University](https://www.seu.edu.cn/).
+[Southeast University](https://www.seu.edu.cn/)
 
 #### Research
 Graph Representation Learning
